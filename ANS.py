@@ -1,11 +1,35 @@
-import math
-"""
-The run function in which our solution must be present.
-Instead of taking input we need to do ip.readline()
-Instead of output we need to do op.write()
-"""
+                                            ####################################
+                                            #				ANS.py	   		   #
+                                            #		this file is part of the   #
+                                            # Random Testcase Generator Script # 
+                                            #          Made By- sd5869         #
+                                            ####################################
+
+#############################################################################################################
+# In this file you can add your own solution with which can you  generate the output to the input Testcases #		
+#############################################################################################################
+
+##########################################################
+# The function that must be used for coding the solution #
+##########################################################
+
 def run(ip,op):
-    t=ip.readline()
-    for _ in range(int(t)):
-        x=int(ip.readline())
-        op.write(str(int(math.sqrt(x)))+"\n")
+
+	###########################################################
+	# Note: Please use ip.readline() in place of input()      #
+	# and use op.write() inplace of print() in your solution. #
+	# Don't forget to add "\n" in op.write() whenever needed. #
+	###########################################################
+
+	###################################
+	# Start solution below this block #
+	###################################
+		pass
+	####################################
+	# Finish solution below this block #
+	####################################
+
+	#######################################################################################################
+	# Don't Remove this as if Written is not printed on the Screen that means you code in having an Error #
+	#######################################################################################################
+	print("Written")
