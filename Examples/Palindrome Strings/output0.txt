@@ -1,0 +1,10 @@
+Not Palindrome
+Palindrome
+Not Palindrome
+Palindrome
+Palindrome
+Palindrome
+Not Palindrome
+Palindrome
+Not Palindrome
+Palindrome
