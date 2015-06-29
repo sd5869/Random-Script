@@ -1,6 +1,6 @@
                                             ####################################
-                                            #				ANS.py	   		   #
-                                            #		this file is part of the   #
+                                            #	               ANS.py          #
+                                            #       this file is part of the   #
                                             # Random Testcase Generator Script # 
                                             #          Made By- sd5869         #
                                             ####################################
