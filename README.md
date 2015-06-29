@@ -6,7 +6,7 @@ For any bugs or edits please E-mail me at sd5869@gmail.com
 ##Requirments
 A system with Python 3
 
-##Random.py
+##Run.py
 This is the main file which we need to run to Generate Testcases.We need to provide all details like: number of files to produce, number of testcases in each file etc.
 
 ##ANS.py
