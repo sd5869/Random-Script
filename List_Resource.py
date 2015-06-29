@@ -1,9 +1,9 @@
-                                            ####################################
-                                            #	      List_Resource.py	       #
-                                            #	    this file is part of the   #
-                                            # Random Testcase Generator Script # 
-                                            #          Made By- sd5869         #
-                                            ####################################
+                                            #################################
+                                            #	      List_Resource.py	    #
+                                            #	this file is part of the    #
+                                            #   Testcase Generator Project  # 
+                                            #          Made By- sd5869      #
+                                            #################################
 
 #####################################################################################
 # In this file you can generate your own list according to requirements of testcase #
