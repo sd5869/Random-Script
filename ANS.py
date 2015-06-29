@@ -24,7 +24,7 @@ def run(ip,op):
 	###################################
 	# Start solution below this block #
 	###################################
-		pass
+	pass
 	####################################
 	# Finish solution below this block #
 	####################################
