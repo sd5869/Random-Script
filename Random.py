@@ -194,7 +194,11 @@ for i in range(files):
                         templist.remove(ele)
                         if(templist==[]):
                             raise "Number of Elements are too few they can't be arranged without repetition"
-            ip.write("\n")
+            """
+            This is done to add new line after every testcase except for last one
+            """
+            if(j!=t-1):
+                ip.write("\n")
     ip.close()
     print("Do you want output file also y/n")
     ans=input()
