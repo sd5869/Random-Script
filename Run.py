@@ -148,7 +148,7 @@ for i in range(files):
                     # Unpacking Details from Dictionary #
                     #####################################
 
-                [typ,num_ele,write_number_of_elements,Lower,Upper]=testcase_info[i]
+                [typ,num_ele,write_number_of_elements,Lower,Upper]=testcase_info[k]
 
                 if(write_number_of_elements=="y"):
                     ip.write(str(num_ele)+"\n")
